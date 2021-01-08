@@ -28,7 +28,7 @@ Quickly and easily create a README file by using a command-line application to g
    ![License Badge](https://img.shields.io/static/v1?label=License&message=Apache&color=blue)
     
    ## Github:
-   ![GitHub forks](https://img.shields.io/github/github/tterb/playmusic.svg?style=social&label=Fork)
+   ![GitHub forks](https://img.shields.io/github/forks/tterb/style=social&label=Fork)
   ![License Badge](https://img.shields.io/github/:jess@jess?label=Fork)
     
    ## language:
