@@ -1,8 +1,8 @@
-# crate a read me
+# create readme
     ![License Badge](https://img.shields.io/static/v1?label=License&message=Apache&color=blue);
     
-        # Name: Jessica
-        ![License Badge](https://img.shields.io/github/github/:jeesss@githum?label=Fork);
+        # Name: jess
+        ![License Badge](https://img.shields.io/github/github/:jess@jess?label=Fork);
           
         ## Table of contents: 
         * [title](#title)
@@ -15,11 +15,11 @@
        
         
         ## Description:
-        a cli programe desginged to create  a read me
+        write this then that
         ## Installation:
         npm install
         ## Usage:
-        none
+        
         ## license:
         Apache
         
@@ -28,5 +28,5 @@
         ## language:
         Javascript
         ## Questions:
-        Contact Jessica with any questions at jess@ho.com
+        Contact jess with any questions at jess@hotmail
       

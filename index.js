@@ -87,9 +87,9 @@ const questions = [
   ]
 
 
-  // function to initialize program
+ // function to initialize program
 function init() {
-  
+  console.log("Inside the init function")
   inquirer.prompt(questions).then((response) => {
       fs.writeFileSync("exampleREADME.md", generateMD(response) , function (err) {
 
@@ -102,7 +102,6 @@ function init() {
       })
   })
 }
+
 // function call to initialize program
 init();
-
-
