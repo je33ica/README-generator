@@ -6,8 +6,8 @@ Quickly and easily create a README file by using a command-line application to g
     Name: undefined
     GitHub user name: undefined
       
-    ## Table of contents: 
-    * [title](#title)
+    # Table of contents: 
+    * [title ] (#title) 
     * [description](#description)
     * [Usage](#usage)
     * [Installation](#instalDep)
