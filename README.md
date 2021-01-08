@@ -30,6 +30,9 @@ Quickly and easily create a README file by using a command-line application to g
    ## Github:
    ![GitHub forks](https://img.shields.io/github/forks/tterb/style=social&label=Fork)
   ![License Badge](https://img.shields.io/github/:jess@jess?label=Fork)
+  ![GitHub forks](https://img.shields.io/github/forks/:user/:repo?label=Fork)
+  
+  /github/forks/:user/:repo?label=Fork
     
    ## language:
    Javascript
