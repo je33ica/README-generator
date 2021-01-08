@@ -29,8 +29,7 @@ Quickly and easily create a README file by using a command-line application to g
     
    ## Github:
   
-[![GitHub forks](https://img.shields.io/github/forks/StrapDown.js.svg?style=social&label=Fork&maxAge=2592000)]
-    
+  
    ## language:
    Javascript
    ## Questions:
