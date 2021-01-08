@@ -1,32 +1,31 @@
-# create readme
-    ![License Badge](https://img.shields.io/static/v1?label=License&message=Apache&color=blue);
+# read me generator
     
-        # Name: jess
-        ![License Badge](https://img.shields.io/github/github/:jess@jess?label=Fork);
-          
-        ## Table of contents: 
-        * [title](#title)
-        * [description](#description)
-        * [Usage](#usage)
-        * [Installation](#instalDep)
-        * [Contribute] (#contribute)
-        * [language used] (#language)
-        * [License](#license)
+     # Author: Jessica
+        
+     ## Table of Contents
+     * [Installation](#instalation)
+        
+     * [Usage](#usage)
+        
+     * [Contributing](#contributing)
+        
+     * [License](#license)
+        
+     * [Tests](#tests)
+        
+     * [Questions](#questions)
        
         
         ## Description:
-        write this then that
+        creat a read me generator
         ## Installation:
         npm install
-        ## Usage:
-        
         ## license:
-        Apache
-        
-        ## Contributing:
-        
-        ## language:
+        [License Badge!](https://img.shields.io/static/v1?label=License&message=Apache&color=blue)
+        ## GitHub:
+        jess @ github
+        ## language used:
         Javascript
         ## Questions:
-        Contact jess with any questions at jess@hotmail
+        Contact Jessica with any questions at jess@htomal
       

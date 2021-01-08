@@ -29,23 +29,12 @@ const questions = [
         name: "description",
         message: "Please write a short description of your project."
     },
-    {
-      type: "input",
-      name: "usage",
-      message: "Directions for using this project?",
-    },
-  
+    
     {
       type: "input",
       name: "instalDep",
       message: "Command to install dependencies?",
       default: "npm install",
-    },
-    {
-      type: "input",
-      name: "contribute",
-      message:
-        "Please enter any information the user needs to know about contributing.",
     },
     {
       type: "checkbox",
