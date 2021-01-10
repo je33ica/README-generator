@@ -40,7 +40,7 @@
 
  ## Github:
  je33ica 
- [GitHub](http://github/je33ica)
+ [GitHub](https://github.com/je33ica)
 
  ## language used:
 
