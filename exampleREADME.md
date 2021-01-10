@@ -1,31 +1,53 @@
-# read me generator
+# ReadMe generator
+    # This README has been licensed using :
+    [License Badge!](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
     
-     # Author: Jessica
+     # Author: Jessica O'Keeffe
         
      ## Table of Contents
+     *[Decription](#description)
+
      * [Installation](#instalation)
         
      * [Usage](#usage)
-        
+
+     * [License](#license)  
+
      * [Contributing](#contributing)
         
-     * [License](#license)
-        
      * [Tests](#tests)
-        
+     
+     * [Language used](#language used)
+
      * [Questions](#questions)
        
         
         ## Description:
-        creat a read me generator
+        A simple command line generator designed to help people quickly and easily creat a readMe for a gitHub repo
+
         ## Installation:
         npm install
-        ## license:
-        [License Badge!](https://img.shields.io/static/v1?label=License&message=Apache&color=blue)
-        ## GitHub:
-        jess @ github
+
+        ## Usage:
+        to help ppl work more effciently
+        
+         ## The following license has been used:
+        MIT
+        
+        ## Contribute:
+        no-one else
+
+       
+        ## Github:
+        je33ica 
+        [GitHub](http://github/je33ica.com)
+        
         ## language used:
-        Javascript
+        
+       
         ## Questions:
-        Contact Jessica with any questions at jess@htomal
+        Contact Jessica O'Keeffe with any questions at je33ica@hotmail.co.uk
       
+        # [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+
+        

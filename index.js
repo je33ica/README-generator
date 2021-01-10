@@ -88,7 +88,7 @@ const questions = [
 
 // function to initialize program
 function init() {
-  console.log("Inside the init function");
+  console.log("Please anser the follwing questions to creat your ReadMe file");
   inquirer.prompt(questions).then((response) => {
     fs.writeFileSync("exampleREADME.md", generateMD(response), function (err) {
       if (error) {
