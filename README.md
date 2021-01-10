@@ -1,52 +1,51 @@
 # ReadMe generator
-   # This README has been licensed using :
-   [License Badge!](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
-   # Author: Jessica O'Keeffe
+    # This README has been licensed using :
+    [![License Badge](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)]
+    
+# Author: Jessica
         
-   ## Table of Contents
-   *[Decription](#description)
+ ## Table of Contents
+*[Description](#description)
 
-   * [Installation](#instalation)
-        
-     * [Usage](#usage)
+ * [Installation](#instalation)
 
-     * [License](#license)  
+ * [Usage](#usage)
 
-     * [Contributing](#contributing)
-        
-     * [Tests](#tests)
-     
-     * [Language used](#language used)
+ * [License](#license)  
 
-     * [Questions](#questions)
-       
-        
-        ## Description:
-        A simple command line generator designed to help people quickly and easily creat a readMe for a gitHub repo
+ * [Contributing](#contributing)
 
-        ## Installation:
-        npm install
+ * [Tests](#tests)
 
-        ## Usage:
-        to help ppl work more effciently
-        
-         ## The following license has been used:
-        MIT
-        
-        ## Contribute:
-        no-one else
+ * [Language](#language)
 
-       
-        ## Github:
-        je33ica 
-        [GitHub](http://github/je33ica.com)
-        
-        ## language used:
-        
-       
-        ## Questions:
-        Contact Jessica O'Keeffe with any questions at je33ica@hotmail.co.uk
-      
-        # [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+ * [Questions](#questions)
 
-        
+
+ ## Description:
+ A command line programe built using node, inquirer in Javascript that will automatically create a read me
+
+ ## Installation:
+ npm install
+
+ ## Usage:
+ To help speed up the process when creating a readMe for a github repo
+
+ ## The following license has been used:
+ MIT
+
+ ## Contribute:
+ Me!
+
+
+ ## Github:
+ je33ica 
+ [GitHub](http://github/je33ica)
+
+ ## language used:
+
+
+ ## Questions:
+ Contact Jessica with any questions at je33ica@hotmail.co.uk
+
+ # [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
