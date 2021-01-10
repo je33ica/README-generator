@@ -28,8 +28,7 @@ Quickly and easily create a README file by using a command-line application to g
    ![License Badge](https://img.shields.io/static/v1?label=License&message=Apache&color=blue)
     
    ## Github:
-  
-  
+ 
    ## language:
    Javascript
    ## Questions:
