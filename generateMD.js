@@ -33,7 +33,7 @@ function generateMD(data) {
     ## Usage:
     ${data.usage}
 
-      ## The following license has been used:
+    ## The following license has been used:
     ${data.license}
 
     ## Contribute:
