@@ -1,35 +1,52 @@
-# README-generator
-Quickly and easily create a README file by using a command-line application to generate one
-
-# Name: jess
- 
+# ReadMe generator
+   # This README has been licensed using :
+   [License Badge!](https://img.shields.io/static/v1?label=License&message=MIT&color=blue)
+   # Author: Jessica O'Keeffe
+        
    ## Table of Contents
+   *[Decription](#description)
+
    * [Installation](#instalation)
         
-   * [Usage](#usage)
+     * [Usage](#usage)
+
+     * [License](#license)  
+
+     * [Contributing](#contributing)
         
-   * [Contributing](#contributing)
+     * [Tests](#tests)
+     
+     * [Language used](#language used)
+
+     * [Questions](#questions)
+       
         
-   * [License](#license)
+        ## Description:
+        A simple command line generator designed to help people quickly and easily creat a readMe for a gitHub repo
+
+        ## Installation:
+        npm install
+
+        ## Usage:
+        to help ppl work more effciently
         
-   * [Tests](#tests)
+         ## The following license has been used:
+        MIT
         
-   * [Questions](#questions)
-   
-    
-   ## Description:
-   write this then that
-   ## Installation:
-   npm install
-   
-   ## Usage:
-    
-   ## license:
-   ![License Badge](https://img.shields.io/static/v1?label=License&message=Apache&color=blue)
-    
-   ## Github:
- 
-   ## language:
-   Javascript
-   ## Questions:
-   Contact jess with any questions at jess@hotmail
+        ## Contribute:
+        no-one else
+
+       
+        ## Github:
+        je33ica 
+        [GitHub](http://github/je33ica.com)
+        
+        ## language used:
+        
+       
+        ## Questions:
+        Contact Jessica O'Keeffe with any questions at je33ica@hotmail.co.uk
+      
+        # [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+
+        
