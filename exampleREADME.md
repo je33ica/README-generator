@@ -40,7 +40,7 @@
 
     ## Github:
     je33ica 
-    [GitHub](http://github/je33ica)
+    [GitHub](https://github.com/je33ica)
 
     ## language used:
     
@@ -48,7 +48,7 @@
     ## Questions:
     Contact Jessica with any questions at je33ica@hotmail.co.uk
 
-    # [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+    # [![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg)]
 
    
         
