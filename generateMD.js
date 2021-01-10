@@ -42,7 +42,7 @@ function generateMD(data) {
 
     ## Github:
     ${data.github} 
-    [GitHub](http://github/${data.github})
+    [GitHub](https://github.com/${data.github})
 
     ## language used:
     ${data.language}
@@ -50,7 +50,7 @@ function generateMD(data) {
     ## Questions:
     Contact ${data.author} with any questions at ${data.contact}
 
-    # [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)]
+    # [![ForTheBadge built-with-love](https://ForTheBadge.com/images/badges/built-with-love.svg)]
 
    
         `;
